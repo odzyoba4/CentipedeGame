@@ -2,9 +2,9 @@
 Video Demo: <br>
 [![CentipedeDemo](https://img.youtube.com/vi/yPkErqfitr4/0.jpg)](https://www.youtube.com/watch?v=yPkErqfitr4) <br>
 ## Overview
-This project is an attempted replica of the Atari Centipede game. During this project I learned how to handle large quantities of files within a system, and how to use design patterns like factory pattern, command pattern, strategy pattern, finite state machine, and others. <br/>
+This project is an attempted replica of the Atari Centipede game. During this project I learned how to handle systems that totaled up to 100 classes, and how to use design patterns like factory pattern, command pattern, strategy pattern, finite state machine, and others. <br/>
 Game Controller Class Diagram:
-![CentipedeGameFlow](/images/CentipedeGameFlow.png)
+![CentipedeGameFlow](/images/CentipedeFSM.png)
 
 ## Finite State Machine
 One of the systems I implemented was the main centipede's movement. To do this, I used a finite state machine to create static state classes to decide between 
